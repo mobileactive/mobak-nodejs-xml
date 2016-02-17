@@ -1,0 +1,29 @@
+{
+  "name": "mobak-nodejs-xml",
+  "version": "1.0.0",
+  "description": "Sending SMS messages via mobak.ru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobileactive/mobak-nodejs-xml.git"
+  },
+  "keywords": [
+    "mobak",
+    "sms",
+    "messages",
+    "notifications"
+  ],
+  "author": "Mike Grigoriev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mobileactive/mobak-nodejs-xml/issues"
+  },
+  "homepage": "https://github.com/mobileactive/mobak-nodejs-xml#readme",
+  "dependencies": {
+    "request": "2.9.x",
+    "crypto": "0.0.3"
+  }
+}
